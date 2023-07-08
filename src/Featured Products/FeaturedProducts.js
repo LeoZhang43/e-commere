@@ -20,11 +20,11 @@ function FeaturedProducts() {
             <h6 className='d-flex'>Modrden Bookshelf<p className='ms-auto text-warning'>$319.99</p></h6>
           </div>
         </div>
-        <div className='d-grid pt-4 justify-content-center'>
+        <div className='d-grid py-4 justify-content-center'>
           <button type="button" class="btn btn-warning">ALL PRODUCTS</button>
         </div>
       </div>
     );
   }
   
-  export default FeaturedProducts;
+export default FeaturedProducts;
